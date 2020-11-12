@@ -1,6 +1,0 @@
-D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\Add tower.csproj.CoreCompileInputs.cache
-D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\bin\Release\Add tower.dll
-D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\bin\Release\Add tower.pdb
-D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\Add tower.dll
-D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\Add tower.pdb
-D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\Add tower.csprojAssemblyReference.cache
