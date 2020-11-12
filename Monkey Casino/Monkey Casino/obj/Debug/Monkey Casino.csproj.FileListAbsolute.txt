@@ -1,8 +1,0 @@
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\obj\Debug\Monkey Casino.csprojAssemblyReference.cache
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\obj\Debug\Monkey Casino.csproj.GenerateResource.cache
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\obj\Debug\Monkey Casino.csproj.CoreCompileInputs.cache
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\obj\Debug\MonkeyCasino.Icons.resources
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\bin\Debug\Monkey Casino.dll
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\bin\Debug\Monkey Casino.pdb
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\obj\Debug\Monkey Casino.dll
-D:\Games\Btd6 Mods\Mod Projects\Monkey Casino\Monkey Casino\obj\Debug\Monkey Casino.pdb
