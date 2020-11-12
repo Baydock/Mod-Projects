@@ -1,0 +1,18 @@
+﻿Path 1:
+1:	Focused Firing: Greatly reduces the spread of the gun. ✅
+2:	Target Lock: A new targeting option enables Dartling to lock its targeting. *BTD6 asset ✅
+3:	Laser Cannon: Converts the gun into a super powerful laser cannon. ✅
+4:	Ray of Doom: The Ray of Doom is a persistent solid beam of bloon destruction. ✅
+5:	Harness the Sun: The TRUE Sun God has bestowed upon this cannon near UNPARALLELED power! Make prayer. ✅
+Path 2:
+1:	Wider Darts: Shoots larger darts that can pop frozen bloons. ✅
+2:	Lucky Shot: Allows Dartling to pop camo. ✅
+3:	Hydra Rocket Pods: Shoots vicious little missiles instead of darts. ✅
+4:	Bloon Area Denial System: The BADS covers a wide area with each shot. Rocket Storm Ability: Shoots a storm of 100 missiles. ✅
+5:	System Upgrade: More! MORE!! ✅
+Path 3:
+1:	Powerful Darts: Darts move faster and have increased pierce. ✅
+2:	Faster Barrel Spin: Makes gun fire faster. ✅
+3:	Fine Tuning: Makes gun fire even faster. ✅
+4:	Double Barrel: Double the barrels, double the fun. ✅
+5:	Industrial Dart Supply: Too...many...darts... ✅

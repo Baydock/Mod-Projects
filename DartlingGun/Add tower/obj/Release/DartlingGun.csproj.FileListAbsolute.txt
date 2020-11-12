@@ -1,0 +1,17 @@
+D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\bin\Release\Dartling Gun.dll
+D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\bin\Release\Dartling Gun.pdb
+D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\DartlingGun.csproj.CoreCompileInputs.cache
+D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\Dartling Gun.dll
+D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\Dartling Gun.pdb
+D:\Games\Btd6 Mods\Mod Projects\Mods\Add tower\obj\Release\DartlingGun.csprojAssemblyReference.cache
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Release\Dartling Gun.dll
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Release\Dartling Gun.pdb
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\DartlingGun.Textures.resources
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\DartlingGun.csproj.GenerateResource.cache
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\DartlingGun.csproj.CoreCompileInputs.cache
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\Dartling Gun.dll
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\Dartling Gun.pdb
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\DartlingGun.csprojAssemblyReference.cache
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\DartlingGun.Meshes.resources
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Release\UnityEngine.AudioModule.dll
+D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Release\DartlingGun.csproj.CopyComplete

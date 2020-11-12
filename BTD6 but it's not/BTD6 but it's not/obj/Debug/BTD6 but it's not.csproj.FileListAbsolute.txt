@@ -1,0 +1,8 @@
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\obj\Debug\BTD6 but it's not.csprojAssemblyReference.cache
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\obj\Debug\BTD6 but it's not.csproj.CoreCompileInputs.cache
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\bin\Debug\BTD6 but it's not.dll
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\bin\Debug\BTD6 but it's not.pdb
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\obj\Debug\BTD6 but it's not.dll
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\obj\Debug\BTD6 but it's not.pdb
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\obj\Debug\BTD6 but it's not.csproj.GenerateResource.cache
+D:\Games\Btd6 Mods\Mod Projects\BTD6 but it's not\BTD6 but it's not\obj\Debug\BTD6ButItsNot.QuestionMark.resources

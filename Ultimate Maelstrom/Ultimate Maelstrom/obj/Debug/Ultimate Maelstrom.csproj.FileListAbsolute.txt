@@ -1,0 +1,10 @@
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\bin\Debug\Ultimate Maelstrom.dll
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\bin\Debug\Ultimate Maelstrom.pdb
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\obj\Debug\Ultimate Maelstrom.csproj.CoreCompileInputs.cache
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\obj\Debug\Ultimate Maelstrom.dll
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\obj\Debug\Ultimate Maelstrom.pdb
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\obj\Debug\Ultimate Maelstrom.csproj.GenerateResource.cache
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\obj\Debug\UltimateMaelstrom.Images.resources
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\bin\Debug\UnityEngine.UI.dll
+D:\Games\Btd6 Mods\Mod Projects\Ultimate Maelstrom\Ultimate Maelstrom\obj\Debug\Ultimate Maelstrom.csproj.CopyComplete
