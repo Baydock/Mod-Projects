@@ -1,8 +1,0 @@
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Debug\Dartling Gun.dll
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Debug\Dartling Gun.pdb
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Debug\DartlingGun.csproj.CoreCompileInputs.cache
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Debug\Dartling Gun.dll
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Debug\Dartling Gun.pdb
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Debug\UnityEngine.IMGUIModule.dll
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\bin\Debug\UnityEngine.UI.dll
-D:\Games\Btd6 Mods\Mod Projects\DartlingGun\Add tower\obj\Debug\DartlingGun.csproj.CopyComplete
