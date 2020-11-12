@@ -1,0 +1,6 @@
+D:\Games\Btd6 Mods\Mod Projects\Look At Player\Look At Player\bin\Release\Look At Player.dll
+D:\Games\Btd6 Mods\Mod Projects\Look At Player\Look At Player\bin\Release\Look At Player.pdb
+D:\Games\Btd6 Mods\Mod Projects\Look At Player\Look At Player\obj\Release\Look At Player.csprojAssemblyReference.cache
+D:\Games\Btd6 Mods\Mod Projects\Look At Player\Look At Player\obj\Release\Look At Player.csproj.CoreCompileInputs.cache
+D:\Games\Btd6 Mods\Mod Projects\Look At Player\Look At Player\obj\Release\Look At Player.dll
+D:\Games\Btd6 Mods\Mod Projects\Look At Player\Look At Player\obj\Release\Look At Player.pdb

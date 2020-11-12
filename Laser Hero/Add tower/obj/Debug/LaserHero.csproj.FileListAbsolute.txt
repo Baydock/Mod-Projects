@@ -1,0 +1,6 @@
+D:\Games\Btd6 Mods\Mod Projects\Laser Hero\Add tower\obj\Debug\LaserHero.csproj.CoreCompileInputs.cache
+D:\Games\Btd6 Mods\Mod Projects\Laser Hero\Add tower\obj\Debug\LaserHero.csprojAssemblyReference.cache
+D:\Games\Btd6 Mods\Mod Projects\Laser Hero\Add tower\bin\Debug\Laser Hero.dll
+D:\Games\Btd6 Mods\Mod Projects\Laser Hero\Add tower\bin\Debug\Laser Hero.pdb
+D:\Games\Btd6 Mods\Mod Projects\Laser Hero\Add tower\obj\Debug\Laser Hero.dll
+D:\Games\Btd6 Mods\Mod Projects\Laser Hero\Add tower\obj\Debug\Laser Hero.pdb
