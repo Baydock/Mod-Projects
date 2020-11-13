@@ -59,8 +59,8 @@ namespace BTD5TopPathVillage {
                     }
                 }
                 __instance.rightHandButton.gameObject.SetActive(false);
-                __instance.leftHandButton.transform.Find("Icon").GetComponent<Image>().sprite =
-                    Utils.GetIconSprite(AttackSwitch_Patch.old ? "BTD5" : "BTD6");
+                Utils.SetTexture(__instance.leftHandButton.transform.Find("Icon").GetComponent<Image>(), 
+                    AttackSwitch_Patch.old ? "BTD5" : "BTD6");
             }
         }
     }
@@ -123,8 +123,7 @@ namespace BTD5TopPathVillage {
         public static void Postfix(TSMThemeAmbidextrousRangs __instance, TowerToSimulation tower) {
             if (tower.Def.name.Contains(TowerType.MonkeyVillage) && tower.Def.tiers[0] == 5) {
                 old = !old;
-                __instance.leftHandButton.transform.Find("Icon").GetComponent<Image>().sprite = 
-                    Utils.GetIconSprite(old ? "BTD5" : "BTD6");
+                Utils.SetTexture(__instance.leftHandButton.transform.Find("Icon").GetComponent<Image>(), old ? "BTD5" : "BTD6");
                 tower.tower.UpdateRootModel(GetSwitch(tower.Def.tiers[1], tower.Def.tiers[2]));
             }
         }
@@ -153,6 +152,25 @@ namespace BTD5TopPathVillage {
     }
 
     public class Utils {
+        public static Texture2D GetTexture(string name) {
+            object bitmap = Icons.ResourceManager.GetObject(name);
+            if (bitmap != null) {
+                MemoryStream memory = new MemoryStream();
+                (bitmap as Bitmap).Save(memory, ImageFormat.Png);
+                Texture2D texture = new Texture2D(0, 0);
+                ImageConversion.LoadImage(texture, memory.ToArray());
+                memory.Close();
+                return texture;
+            }
+            return null;
+        }
+        public static void SetTexture(Image image, string name) {
+            Texture2D texture = GetTexture(name);
+            if (texture != null) {
+                image.canvasRenderer.SetTexture(texture);
+                image.sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), new UnityEngine.Vector2());
+            }
+        }
 
         public static void RegisterTowerInInventory(TowerDetailsModel details, string insertBefore, List<TowerDetailsModel> allTowersInTheGame) {
             // get the tower details for the tower insertBefore and insert the new tower into the index towerBefore is at, shifting everything after it by 1

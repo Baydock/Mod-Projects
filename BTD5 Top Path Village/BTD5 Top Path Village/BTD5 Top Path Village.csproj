@@ -62,6 +62,7 @@
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
       <HintPath>..\..\..\..\steamapps\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\..\..\steamapps\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.CoreModule.dll</HintPath>
@@ -69,6 +70,7 @@
     </Reference>
     <Reference Include="UnityEngine.Il2CppAssetBundleManager">
       <HintPath>..\..\..\..\steamapps\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.Il2CppAssetBundleManager.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
       <HintPath>..\..\..\..\steamapps\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
@@ -76,6 +78,10 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>..\..\..\..\steamapps\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\..\steamapps\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.UIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
