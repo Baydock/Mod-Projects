@@ -421,8 +421,6 @@ namespace DartlingGun {
         public static void AddUpgradeModel(UpgradeModel upgradeModel) =>
             Game.instance.model.upgrades = AddModel(Game.instance.model.upgrades, upgradeModel);
 
-        public static TowerModel GetTower(TowerType t, int tier1, int tier2, int tier3) =>
-            GetTower(t.ToString(), tier1, tier2, tier3);
         public static TowerModel GetTower(string t, int tier1, int tier2, int tier3) =>
             Game.instance.model.GetTower(t, tier1, tier2, tier3);
 
